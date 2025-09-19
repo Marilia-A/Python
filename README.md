@@ -1,1 +1,1 @@
-Atividades práticas de pytjon, aulas de estruturas de dados.
+Atividades práticas de PYTHON, aulas de estruturas de dados.
